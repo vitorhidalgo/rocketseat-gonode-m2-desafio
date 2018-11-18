@@ -1,0 +1,25 @@
+{
+  "name": "rocketseat-gonode-m2-desafio",
+  "version": "1.0.0",
+  "description": "Go Node - Desafio 02",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhidalgo/rocketseat-gonode-m2-desafio.git"
+  },
+  "author": "Vitor Hidalgo <vitor.hidalgo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorhidalgo/rocketseat-gonode-m2-desafio/issues"
+  },
+  "homepage": "https://github.com/vitorhidalgo/rocketseat-gonode-m2-desafio#readme"
+}
